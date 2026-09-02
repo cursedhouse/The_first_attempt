@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Our earth</title>
+        <link rel="icon" type="Images/png" href="Images/earth.png">
+    </head>
+    <body>
+        <h1 style="text-align: center;">
+            Our earth
+        </h1>
+        <h4 style="text-align: center;">The only planet that we can live on</h4>
+        <hr>
+        <p> For testing my videos</p>
+        <!------------Test-------------->
+        <video width="320" height="240" controls>
+            <source src="video/earth.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </body>
+</html>
